@@ -1,0 +1,1 @@
+{"jobID":"45c58cb1-4afa-82eb-2989-4e2b2d0aeb43","spec":{"type":"policy","cause":{"Message":"","User":"Peter Ung \u003cung.peter@gmail.com\u003e"},"spec":{"demo:helmrelease/redis":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
