@@ -1,0 +1,1 @@
+{"jobID":"9e8792c0-394b-4275-84e3-1281de1a2f64","spec":{"type":"policy","cause":{"Message":"","User":"Peter Ung \u003cung.peter@gmail.com\u003e"},"spec":{"demo:helmrelease/mongodb":{"add":{"automated":"true"},"remove":{}}}},"result":null}
